@@ -1,0 +1,20 @@
+{
+  "name": "darwin",
+  "description": "AI development workflow that learns and adapts to your codebase. Tests are the contract for every change, living behavior files stay true to the code under a strict drift check, and lessons from mistakes evolve into checks.",
+  "version": "5.0.0",
+  "author": {
+    "name": "Itamar Vax"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/ItamarVax/darwin",
+  "keywords": [
+    "workflow",
+    "planning",
+    "execution",
+    "review",
+    "subagent",
+    "debugging",
+    "onboarding"
+  ],
+  "hooks": "./hooks/hooks-cursor.json"
+}
